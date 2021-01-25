@@ -36,7 +36,6 @@ ALLOWED_HOSTS = ['django-blogger-raman.herokuapp.com']
 INSTALLED_APPS = [
     'blog.apps.BlogConfig',
     'users.apps.UsersConfig',
-
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
